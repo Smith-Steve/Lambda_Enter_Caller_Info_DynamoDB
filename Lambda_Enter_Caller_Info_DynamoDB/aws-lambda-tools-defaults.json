@@ -5,7 +5,7 @@
     "dotnet lambda help",
     "All the command line options for the Lambda command can be specified in this file."
   ],
-  "function-name": "Lambda function that enters new phone numbers, and updates different fields of previous entries in DynamoDB",
+  "function-name": "Add_Update_Dynamo_DB",
   "profile": "default",
   "region": "us-east-1",
   "configuration": "Release",
